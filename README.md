@@ -1,7 +1,7 @@
 # ISO2-2026-GrupoA.01-Testing-1
-Testing problem 1: Antonio &amp; Patricia
+Testing problem 1: Antonio Natán Fechete Carpea &amp; Patricia Camacho Rivallo
 
-**ET.02.02 First Problem.** Step 1 (implement the program) was done by Pair 1: Antonio & Patricia.
+**ET.02.02 First Problem.** Step 1 (implement the program) was done by Pair 1: Antonio Natán Fechete Carpea & Patricia Camacho Rivallo.
 
 The program takes the entry and exit times of a parking ticket and returns the cost of the stay.
 
